@@ -116,7 +116,7 @@ public class D4mnAsciiBlackjack {
                 if (playing[giocatore]) {
                     playersValues[giocatore] = singlePlayerHand(giocatore, playersTwoCards[giocatore], blackjacks);
                     if (playersValues[giocatore] > 21) {
-                        System.out.println(players[giocatore] + " SBALLA.");
+                        System.out.println(players[giocatore] + " goes bust.");
                     }
                 } else {
                     playersValues[giocatore] = -1;
