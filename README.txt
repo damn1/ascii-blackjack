@@ -1,5 +1,5 @@
 This is a small game I developed in Java as a lecture for the highschool I'm teaching in.
-It's an implementation of the Blackjack game with a nice ascii interface, something like this:
+It's an implementation of the Blackjack game with a nice ascii interface (I will improve it), something like this:
 
 d4mn, stack: 1000, do your bet: 560
 ================================================
@@ -27,6 +27,8 @@ d4mn, stack: 1000, do your bet: 560
 └─────└────────┘
 
 Allows multiplayer. Does not allow split rule yet (is a TODO).
+The game is developed in a structured programming paradigm, does not include use of classes different from Main one.
+Moreover it does not include use of dynamic structures, since they're not part of the schedule of the classroom.
 
 The lecture is about subroutines and algorithms design.
 The aim is to 
