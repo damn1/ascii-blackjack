@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package d4mn.ascii.blackjack;
+
 
 import static java.lang.Thread.sleep;
 import java.util.Scanner;
